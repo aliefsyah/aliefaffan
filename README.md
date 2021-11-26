@@ -1,0 +1,2 @@
+# aliefaffan
+input data teman
